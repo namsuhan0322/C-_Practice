@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\suhan\\source\\repos\\0620_Ch1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{891630BF-1437-4AEA-844D-61E278EBFE04}|0620_Ch1\\0620_Ch1.vcxproj|C:\\Users\\suhan\\source\\repos\\0620_Ch1\\0620_Ch1\\main_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{891630BF-1437-4AEA-844D-61E278EBFE04}|0620_Ch1\\0620_Ch1.vcxproj|solutionrelative:0620_Ch1\\main_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main_1.cpp",
+              "DocumentMoniker": "C:\\Users\\suhan\\source\\repos\\0620_Ch1\\0620_Ch1\\main_1.cpp",
+              "RelativeDocumentMoniker": "0620_Ch1\\main_1.cpp",
+              "ToolTip": "C:\\Users\\suhan\\source\\repos\\0620_Ch1\\0620_Ch1\\main_1.cpp",
+              "RelativeToolTip": "0620_Ch1\\main_1.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-20T12:18:24.587Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
