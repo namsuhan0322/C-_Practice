@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\suhan\\Desktop\\C-_Practice\\C\u002B\u002B_Practice\\0629\\Ch1-8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8AF6770D-2A3F-40EA-8A4F-8EBD9F3CBF42}|Ch1-8\\Ch1-8.vcxproj|C:\\Users\\suhan\\Desktop\\C-_Practice\\C\u002B\u002B_Practice\\0629\\Ch1-8\\Ch1-8\\main1-8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8AF6770D-2A3F-40EA-8A4F-8EBD9F3CBF42}|Ch1-8\\Ch1-8.vcxproj|solutionrelative:Ch1-8\\main1-8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main1-8.cpp",
+              "DocumentMoniker": "C:\\Users\\suhan\\Desktop\\C-_Practice\\C\u002B\u002B_Practice\\0629\\Ch1-8\\Ch1-8\\main1-8.cpp",
+              "RelativeDocumentMoniker": "Ch1-8\\main1-8.cpp",
+              "ToolTip": "C:\\Users\\suhan\\Desktop\\C-_Practice\\C\u002B\u002B_Practice\\0629\\Ch1-8\\Ch1-8\\main1-8.cpp",
+              "RelativeToolTip": "Ch1-8\\main1-8.cpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-29T13:41:03.554Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
